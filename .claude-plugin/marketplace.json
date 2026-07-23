@@ -8,10 +8,10 @@
   },
   "plugins": [
     {
-      "name": "pet4claude",
+      "name": "pet4agents",
       "source": {
         "source": "url",
-        "url": "https://codeberg.org/xchacha20-poly1305/pet4claude.git"
+        "url": "https://github.com/xchacha20-poly1305/pet4agents.git"
       }
     }
   ]

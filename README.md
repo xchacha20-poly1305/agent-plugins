@@ -1,17 +1,17 @@
-# cc-plugin
+# agents-plugin
 
 My Claude Code plugin market
 
 # How to add
 
 ```shell
-claude plugin marketplace add https://codeberg.org/xchacha20-poly1305/cc-plugin.git
+claude plugin marketplace add https://github.com/xchacha20-poly1305/agent-plugins.git
 ```
 
 # Plugins
 
-## pet4claude
+## pet4agents
 
-<https://codeberg.org/xchacha20-poly1305/pet4claude>
+<https://github.com/xchacha20-poly1305/pet4agents>
 
-Use Codex pet in Claude Code.
+Use Codex pet in agent tools that support Claude plugin.
