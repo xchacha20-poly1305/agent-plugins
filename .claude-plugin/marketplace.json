@@ -15,10 +15,10 @@
       }
     },
     {
-      "name": "grk-agent",
+      "name": "grok-agent",
       "source": {
         "source": "url",
-	"url": "https://github.com/xchacha20-poly1305/grok-agent.git"
+        "url": "https://github.com/xchacha20-poly1305/grok-agent.git"
       }
     }
   ]

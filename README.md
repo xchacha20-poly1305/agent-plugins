@@ -1,4 +1,4 @@
-# agents-plugin
+# agent-plugins
 
 My Claude Code plugin market
 
@@ -26,7 +26,7 @@ Claude:
 claude plugin install <plugin-name>@anrong-plugins
 ```
 
-Codex
+Codex:
 
 ```shell
 codex plugin add <plugin-name>@anrong-plugins
@@ -44,4 +44,4 @@ Use Codex pet in agent tools that support Claude plugin.
 
 <https://github.com/xchacha20-poly1305/grok-agent>
 
-Use Grok as an cheap and fast agent.
+Use Grok as a cheap and fast agent.
