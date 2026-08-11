@@ -40,3 +40,8 @@ codex plugin add <plugin-name>@anrong-plugins
 
 Use Codex pet in agent tools that support Claude plugin.
 
+## grok-agent
+
+<https://github.com/xchacha20-poly1305/grok-agent>
+
+Use Grok as an cheap and fast agent.

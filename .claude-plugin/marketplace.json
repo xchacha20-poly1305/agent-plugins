@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "anrong-plugins",
-  "description": "My plugins",
+  "description": "AnRong's plugins",
   "owner": {
     "name": "安容",
     "email": "HystericalDragons@proton.me"
@@ -12,6 +12,13 @@
       "source": {
         "source": "url",
         "url": "https://github.com/xchacha20-poly1305/pet4agents.git"
+      }
+    },
+    {
+      "name": "grk-agent",
+      "source": {
+        "source": "url",
+	"url": "https://github.com/xchacha20-poly1305/grok-agent.git"
       }
     }
   ]
