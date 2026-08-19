@@ -20,6 +20,13 @@
         "source": "url",
         "url": "https://github.com/xchacha20-poly1305/grok-agent.git"
       }
+    },
+    {
+      "name": "peon-py",
+      "source": {
+        "source": "url",
+	"url": "https://github.com/xchacha20-poly1305/peon-py.git"
+      }
     }
   ]
 }

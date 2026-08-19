@@ -45,3 +45,9 @@ Use Codex pet in agent tools that support Claude plugin.
 <https://github.com/xchacha20-poly1305/grok-agent>
 
 Use Grok as a cheap and fast agent.
+
+## peon-py
+
+<https://github.com/xchacha20-poly1305/peon-py>
+
+Another [openpeon](https://openpeon.com/) implementation for Claude Code / Codex plugin.
