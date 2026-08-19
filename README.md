@@ -51,3 +51,9 @@ Use Grok as a cheap and fast agent.
 <https://github.com/xchacha20-poly1305/peon-py>
 
 Another [openpeon](https://openpeon.com/) implementation for Claude Code / Codex plugin.
+
+## material-icon-download
+
+<https://github.com/xchacha20-poly1305/agent-plugins>
+
+Download icons from [fonts.google.com](https://fonts.google.com).

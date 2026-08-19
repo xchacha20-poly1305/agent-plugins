@@ -27,6 +27,13 @@
         "source": "url",
 	"url": "https://github.com/xchacha20-poly1305/peon-py.git"
       }
+    },
+    {
+      "name": "material-icon-download",
+      "source": {
+        "source": "url",
+	"url": "https://github.com/xchacha20-poly1305/agent-plugins.git"
+      }
     }
   ]
 }
