@@ -36,7 +36,7 @@
       }
     },
     {
-      "name": "model-bar",
+      "name": "bline",
       "source": {
         "source": "url",
         "url": "https://github.com/xchacha20-poly1305/bline.git"

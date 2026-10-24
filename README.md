@@ -58,7 +58,7 @@ Another [openpeon](https://openpeon.com/) implementation for Claude Code / Codex
 
 Download icons from [fonts.google.com](https://fonts.google.com).
 
-## model-bar
+## bline
 
 <https://github.com/xchacha20-poly1305/bline>
 
