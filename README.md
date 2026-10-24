@@ -57,3 +57,9 @@ Another [openpeon](https://openpeon.com/) implementation for Claude Code / Codex
 <https://github.com/xchacha20-poly1305/agent-plugins>
 
 Download icons from [fonts.google.com](https://fonts.google.com).
+
+## model-bar
+
+<https://github.com/xchacha20-poly1305/bline>
+
+Show the model, its reasoning effort and the context window usage on the line under the Claude Code prompt. Claude Code only.
