@@ -69,3 +69,9 @@ Show the model, its reasoning effort and the context window usage on the line un
 <https://github.com/xchacha20-poly1305/ccpii>
 
 Replace personal data in prompts and tool results with numbered placeholders before the model reads them, using [openai/privacy-filter](https://huggingface.co/openai/privacy-filter) locally; tool calls get the real values back. Claude Code only.
+
+## cccc
+
+<https://github.com/xchacha20-poly1305/cccc>
+
+Show how long each foreground Bash command has been running, and how long it took, under the command's row. Claude Code only.

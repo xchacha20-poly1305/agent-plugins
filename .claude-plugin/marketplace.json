@@ -48,6 +48,13 @@
         "source": "url",
         "url": "https://github.com/xchacha20-poly1305/ccpii.git"
       }
+    },
+    {
+      "name": "cccc",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/xchacha20-poly1305/cccc.git"
+      }
     }
   ]
 }
