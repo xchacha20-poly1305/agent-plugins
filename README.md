@@ -63,3 +63,9 @@ Download icons from [fonts.google.com](https://fonts.google.com).
 <https://github.com/xchacha20-poly1305/bline>
 
 Show the model, its reasoning effort and the context window usage on the line under the Claude Code prompt. Claude Code only.
+
+## ccpii
+
+<https://github.com/xchacha20-poly1305/ccpii>
+
+Replace personal data in prompts and tool results with numbered placeholders before the model reads them, using [openai/privacy-filter](https://huggingface.co/openai/privacy-filter) locally; tool calls get the real values back. Claude Code only.

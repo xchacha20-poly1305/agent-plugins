@@ -41,6 +41,13 @@
         "source": "url",
         "url": "https://github.com/xchacha20-poly1305/bline.git"
       }
+    },
+    {
+      "name": "ccpii",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/xchacha20-poly1305/ccpii.git"
+      }
     }
   ]
 }
